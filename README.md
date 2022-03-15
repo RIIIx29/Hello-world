@@ -1,2 +1,1 @@
-# Hello-world
-Github-4
+This is the story of a guy who wants to be a Web Dev
